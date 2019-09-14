@@ -6,13 +6,13 @@
 .pnp.js
 /FYP-App
 
-/src/components/add-new-post
+
 /src/components/components-overview
 /src/components/user-profile-lite
 /src/components/common/TopReferrals
 
 
-/src/views/AddNewPost
+
 /src/views/ComponentOverview
 /src/views/Tables
 /src/views/UserProfileLite
