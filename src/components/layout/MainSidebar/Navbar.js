@@ -2,11 +2,11 @@ import React from "react";
 import PropTypes from "prop-types";
 import classNames from "classnames";
 
-import { NavLink as RouteNavLink } from "react-router-dom";
-import { Col, Container, Navbar,NavItem, NavLink, Row } from "shards-react";
+// import { NavLink as RouteNavLink } from "react-router-dom";
+import { Col, Container, Navbar,} from "shards-react";
 
-import SidebarMainNavbar from "./SidebarMainNavbar";
-import SidebarSearch from "./SidebarSearch";
+// import SidebarMainNavbar from "./SidebarMainNavbar";
+// import SidebarSearch from "./SidebarSearch";
 import SidebarNavItems from "./SidebarNavItems";
 import NavbarToggle from "../MainNavbar/NavbarToggle";
 
