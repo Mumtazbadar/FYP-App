@@ -5,11 +5,11 @@ import { Container, Row, Col } from "shards-react";
 import PageTitle from "./../components/common/PageTitle";
 import SmallStats from "./../components/common/SmallStats";
 import UsersOverview from "./../components/blog/UsersOverview";
-import UsersByDevice from "./../components/blog/UsersByDevice";
-import TweetTabel from "./../components/blog/TweetsTester";
+// import UsersByDevice from "./../components/blog/UsersByDevice";
+// import TweetTabel from "./../components/blog/TweetsTester";
 import NewDraft from "./../components/blog/NewDraft";
-import Discussions from "./../components/blog/Discussions";
-import TopReferrals from "./../components/common/TopReferrals";
+// import Discussions from "./../components/blog/Discussions";
+// import TopReferrals from "./../components/common/TopReferrals";
 
 const BlogOverview = ({ smallStats }) => (
   <Container fluid className="main-content-container px-4" >
